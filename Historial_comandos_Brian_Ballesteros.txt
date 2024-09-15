@@ -1,0 +1,188 @@
+pwd
+ssh-keygen
+cd
+pwd
+ls -la
+cd .ssh
+ls -la
+cat id_rsa.pub
+ls -la
+ssh-keygen
+cd
+pwd
+cd .ssh
+ls -la
+ssh-keygen
+cd
+pwd
+ls -la
+cd .ssh/
+ls -la
+vagrant init
+apt install vagrant
+cd .ssh/
+ls -la
+cat id_rsa.pub
+exit
+git add README
+ls -la
+cp README
+cp README VmPruebas1
+cd VmPruebas1
+cd VmPruebas1/
+cd VmPruebas1
+cd 
+cd .ssh
+cp README
+cp README VmPruebas1
+git status
+.git
+git
+git clone git@github.com:briamdotpy/VmPruebas1.git
+cp README
+cp README VmPruebas1.git
+cp README VmPruebas1
+git add README
+.git add README
+apt install 
+sudo apt install git
+git --version
+git clone git@github.com:briamdotpy/VmPruebas1.git
+echo "# VmPruebas1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:briamdotpy/VmPruebas1.git
+git push -u origin main
+git config --global user.email "ballesterosbrian03@gmail.com"
+git config --global user.name "briandotpy"
+--global
+echo "# VmPruebas1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:briamdotpy/VmPruebas1.git
+git push -u origin main
+git status
+git add README
+cp README 
+cp README VmPruebas1/
+cp README VmPruebas1
+cp README
+git status
+git add .
+README
+git add mi_archivo.txt
+git add README.txt
+git add README
+git add README.tct
+git add README.txt
+git add README.md
+git status
+git add README.md
+git status
+git add README
+git add README.md
+git add README.txt
+git add README.md
+git add README.txt
+git add README.md
+git add README.txt
+git status
+ls -la
+git add README
+pwd
+ls
+ls -l
+ls -a
+sudo apt install git
+git clone git@github.com:briamdotpy/Virtual-Machine-Pruebas.git
+cp README.md Virtual-Machine-Pruebas/
+cp README Virtual-Machine-Pruebas/
+cd Virtual-Machine-Pruebas/
+ls -la
+git status
+git add README
+git status
+git commit -m "Primer Archivo"
+git push origin main
+git push -u origin main
+git init my-repo
+cd my-repo
+touch README.md
+git add README.md
+git commit -m "add README to initial commit"
+git remote add origin git@github.com:briamdotpy/Virtual-Machine-Pruebas.git
+git push --set-upstream origin main
+git push --set-upstream origin master
+ssh-keygen
+cat $HOME/.ssh/*.pub
+cd
+mkdir repogit 
+cd repogit
+git clone git@github.com:briamdotpy/TP_AySO.git
+cd TP_AySO/
+pwd
+ls -l
+cat /etc/os-release 
+man grep
+-i
+man grep
+--ignore-case
+grep --ignore-case
+grep -i
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i Home_url /etc/os-release 
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt
+
+git config --global user.email ballesterosbrian03@gmail.com
+git config --global user.name briamdotpy
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt
+git status
+git status
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt
+
+
+git status
+
+git status
+git commit -m
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt
+git status
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt
+git status
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+cpuinfo
+grep "model name" /proc/cpuinfo | head -n1 | tail -n1 >> datos_usuario.txt
+git status
+git commit -m "feat: Añadiendo informacion de CPU"
+man grep
+man sort
+grep -v "nologin" /etc/passwd | head -n10 | sort -k7 > lista_ordenada
+git add datos_usarios.txt
+git add datos_usuarios.txt
+git add "datos_usuarios.txt"
+git add datos_usuarios
+git add lista_ordenada
+git commit -m "ADD: Listado de usuarios ordenada"
+git status
+apt search dump traffic
+echo "tcpdump" > comando_dump_net
+echo "apt search dump traffic" >> comando_dump_net 
+cat << EOF >> README.md
+Alumno: Brian Ballesteros
+División: 116
+Turno: Mañana
+EOF
+
+git add README.md
+git commit -m "docs: Aprendiendo tecnicas de HereDoc y redireccionamiento y agregarle info al README.md"
+git status
+history -a
